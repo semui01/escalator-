@@ -1,0 +1,27 @@
+STAND STILL. MOVE FASTER. — narration as recorded (76 s)
+
+[ 0.70– 7.30]  To maximize an escalator's capacity, forcing everyone to stand perfectly still actually moves the crowd faster.
+[ 7.65–13.01]  Leaving a walking lane open feels efficient, but it secretly creates massive rush-hour delays.
+
+[13.57–19.24]  Take London's Holborn station, where 11,000 morning commuters need to ride up in a single hour.
+[19.59–22.66]  On a short escalator, the standard rule works perfectly.
+[23.01–25.76]  A steady stream of people happily walk up the left side.
+
+[26.32–29.66]  But Holborn's escalators are a towering 24 metres tall.
+[30.02–31.88]  At that height, human behavior shifts.
+[32.23–36.55]  Only 40% of passengers are actually willing to make the grueling climb.
+[36.90–41.58]  Because almost nobody is walking, that entire left lane becomes wasted space.
+[41.93–47.97]  You've effectively cut your capacity in half, forcing a massive, stagnant bottleneck to build up on the floor below.
+
+[48.53–52.71]  But if you pack both sides with standing passengers, the math completely flips.
+[53.06–59.17]  The machine absorbs over 30 more people every minute, boosting total capacity by 28%.
+
+[59.73–65.52]  And what about that massive, frustrated crowd waiting at the bottom of Holborn station every single morning?
+[65.87–73.00]  By simply packing the steps side by side, the entire bottleneck effortlessly clears out, getting everyone to work much faster.
+
+Changes from the supplied transcript:
+  • "Hullborn" → "Holborn" (spoken the London way, roughly "HOH-bun")
+  • "Take London's station" → "Take London's Holborn station"
+  • "a tower ing 24 m steep" → "a towering 24 metres tall"
+  • "haved your capacity" → "cut your capacity in half" ("halved" was being misheard as "had"/"have" in the synthetic voice)
+  • punctuation only: "rush-hour", "massive, stagnant", "massive, frustrated"
